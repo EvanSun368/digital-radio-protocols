@@ -3,7 +3,7 @@
   "total_planned": 40,
   "started": "2026-09-19",
   "audience": "DMR方向工作人员，通信基础弱，需由浅入深",
-  "last_sent": "2026-10-12T18:52+08:00",
+  "last_sent": "2026-10-13T09:52+08:00",
   "content_preference": "加厚：每课20-35分钟，含总图/术语/现场对照/自测/加深阅读",
   "lesson_1_expanded": true,
   "weak_spots": [
@@ -57,8 +57,8 @@
   "lesson_40_done": true,
   "course_complete": true,
   "mode": "handbook",
-  "handbook_index": 8,
-  "last_handbook_file": "学习推送/手册08_测试实验室最小闭环.md",
+  "handbook_index": 9,
+  "last_handbook_file": "学习推送/手册09_话务与容量分诊.md",
   "handbook_01_done": true,
   "handbook_02_done": true,
   "handbook_03_done": true,
@@ -66,5 +66,6 @@
   "handbook_05_done": true,
   "handbook_06_done": true,
   "handbook_07_done": true,
-  "handbook_08_done": true
+  "handbook_08_done": true,
+  "handbook_09_done": true
 }
