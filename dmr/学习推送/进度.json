@@ -3,7 +3,7 @@
   "total_planned": 40,
   "started": "2026-09-19",
   "audience": "DMR方向工作人员，通信基础弱，需由浅入深",
-  "last_sent": "2026-10-13T18:52+08:00",
+  "last_sent": "2026-10-14T09:52+08:00",
   "content_preference": "加厚：每课20-35分钟，含总图/术语/现场对照/自测/加深阅读",
   "lesson_1_expanded": true,
   "weak_spots": [
@@ -57,8 +57,8 @@
   "lesson_40_done": true,
   "course_complete": true,
   "mode": "handbook",
-  "handbook_index": 10,
-  "last_handbook_file": "学习推送/手册10_室分隧道覆盖交维清单.md",
+  "handbook_index": 11,
+  "last_handbook_file": "学习推送/手册11_写频变更回滚与金机基线制度.md",
   "handbook_01_done": true,
   "handbook_02_done": true,
   "handbook_03_done": true,
@@ -68,5 +68,6 @@
   "handbook_07_done": true,
   "handbook_08_done": true,
   "handbook_09_done": true,
-  "handbook_10_done": true
+  "handbook_10_done": true,
+  "handbook_11_done": true
 }
