@@ -3,7 +3,7 @@
   "total_planned": 40,
   "started": "2026-09-19",
   "audience": "DMR方向工作人员，通信基础弱，需由浅入深",
-  "last_sent": "2026-10-19T09:52+08:00",
+  "last_sent": "2026-10-19T18:52+08:00",
   "content_preference": "加厚：每课20-35分钟，含总图/术语/现场对照/自测/加深阅读",
   "lesson_1_expanded": true,
   "weak_spots": [
@@ -57,8 +57,8 @@
   "lesson_40_done": true,
   "course_complete": true,
   "mode": "handbook",
-  "handbook_index": 21,
-  "last_handbook_file": "学习推送/手册21_干扰投诉分诊与证据链.md",
+  "handbook_index": 22,
+  "last_handbook_file": "学习推送/手册22_频率许可变更与台站执照台账.md",
   "handbook_01_done": true,
   "handbook_02_done": true,
   "handbook_03_done": true,
@@ -79,5 +79,6 @@
   "handbook_18_done": true,
   "handbook_19_done": true,
   "handbook_20_done": true,
-  "handbook_21_done": true
+  "handbook_21_done": true,
+  "handbook_22_done": true
 }
