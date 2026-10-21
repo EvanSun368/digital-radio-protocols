@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # Sync library (Markdown + PDFs + 进度.json + codex + scripts)
-# from /workspace/digital-radio-protocols to sunguangxian/digital-radio-protocols
+# from /workspace/digital-radio-protocols to EvanSun368/digital-radio-protocols
 set -euo pipefail
 SRC=/workspace/digital-radio-protocols
 DST=/tmp/digital-radio-sync
-REPO=https://github.com/sunguangxian/digital-radio-protocols.git
+REPO=https://github.com/EvanSun368/digital-radio-protocols.git
 gh auth setup-git >/dev/null
 # Migrate old sync clone path if present
 if [ -d /tmp/dmr-sync ] && [ ! -d "$DST" ]; then

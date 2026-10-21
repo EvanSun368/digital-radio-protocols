@@ -3,7 +3,7 @@
   "total_planned": 40,
   "started": "2026-09-19",
   "audience": "DMR方向工作人员，通信基础弱，需由浅入深",
-  "last_sent": "2026-10-21T09:52+08:00",
+  "last_sent": "2026-10-21T18:52+08:00",
   "content_preference": "加厚：每课20-35分钟，含总图/术语/现场对照/自测/加深阅读",
   "lesson_1_expanded": true,
   "weak_spots": [
@@ -57,8 +57,8 @@
   "lesson_40_done": true,
   "course_complete": true,
   "mode": "handbook",
-  "handbook_index": 25,
-  "last_handbook_file": "学习推送/手册25_电磁环境测试与验收报告台账.md",
+  "handbook_index": 26,
+  "last_handbook_file": "学习推送/手册26_重大活动设备检测贴签与准入台账.md",
   "handbook_01_done": true,
   "handbook_02_done": true,
   "handbook_03_done": true,
@@ -83,5 +83,6 @@
   "handbook_22_done": true,
   "handbook_23_done": true,
   "handbook_24_done": true,
-  "handbook_25_done": true
+  "handbook_25_done": true,
+  "handbook_26_done": true
 }
