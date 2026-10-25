@@ -3,7 +3,7 @@
   "total_planned": 40,
   "started": "2026-09-19",
   "audience": "DMR方向工作人员，通信基础弱，需由浅入深",
-  "last_sent": "2026-10-25T09:52+08:00",
+  "last_sent": "2026-10-25T18:52+08:00",
   "content_preference": "加厚：每课20-35分钟，含总图/术语/现场对照/自测/加深阅读",
   "lesson_1_expanded": true,
   "weak_spots": [
@@ -57,8 +57,8 @@
   "lesson_40_done": true,
   "course_complete": true,
   "mode": "handbook",
-  "handbook_index": 33,
-  "last_handbook_file": "学习推送/手册33_油机市电切换与机房供电巡检.md",
+  "handbook_index": 34,
+  "last_handbook_file": "学习推送/手册34_电池与充电器梯队轮换与容量抽检台账.md",
   "handbook_01_done": true,
   "handbook_02_done": true,
   "handbook_03_done": true,
@@ -91,5 +91,6 @@
   "handbook_30_done": true,
   "handbook_31_done": true,
   "handbook_32_done": true,
-  "handbook_33_done": true
+  "handbook_33_done": true,
+  "handbook_34_done": true
 }
