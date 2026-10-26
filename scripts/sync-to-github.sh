@@ -44,6 +44,6 @@ if git diff --cached --quiet; then
   echo "NO_CHANGE"
   exit 0
 fi
-git commit -m "Restructure as multi-protocol digital-radio-protocols (DMR under dmr/)"
+git commit -m "手册35 多业主合路POI机房责任界面与干扰分诊 (sticker AH)"
 git push origin main
 echo "PUSHED"
