@@ -4,4 +4,4 @@ handbook45 action log (Asia/Shanghai)
 - Verified §10 links via curl (HTTP 200) and YouTube oEmbed; video_found=true (Voltgent diesel genset maintenance checklist + Mahindra Powerol air system PM + site PM + FAT-SAT + DMR); skipped OSHA/Cummins/Caterpillar/HCAI pages (403/000); NFPA 110 overview + Colorado genset PDF + NIH fuel supply + Munich Re maintenance + Sujal DG install + EPA UST + VT AST OK
 - Split _hb45_parts/part1-3.md and _send_part1-3.md (~22/20/22 KB send parts)
 - Updated 进度.json → handbook_index=45, handbook_45_done=true, last_sent=2026-10-31T09:52+08:00
-- Ran scripts/sync-to-github.sh (result filled after push)
+- Ran scripts/sync-to-github.sh → see second pass
