@@ -6,3 +6,4 @@
 - Split _hb47_parts/part1-3.md and _send_part1-3.md (~20KB-class send parts)
 - Updated 进度.json → handbook_index=47, handbook_47_done=true, last_sent=2026-11-01T09:52+08:00
 - Ran scripts/sync-to-github.sh (result recorded below after run)
+- Sync result: PUSHED commit 8aa145f on EvanSun368/digital-radio-protocols (parent tip was 88a14d9); message mentions handbook47 sticker AT
