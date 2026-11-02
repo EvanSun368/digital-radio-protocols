@@ -6,3 +6,4 @@
 - Split _hb50_parts/part1-3.md (archive §1-3/§4-7/§8-12) and _send_part1-3.md (~20–23KB; send rebalanced §1-2 / §3-6 / §7-12 for paste size)
 - Updated 进度.json → handbook_index=50, handbook_50_done=true, last_handbook_file=学习推送/手册50_机房列头柜与末端配电巡检交底台账.md, last_sent=2026-11-02T18:52+08:00
 - Ran scripts/sync-to-github.sh (result below after run)
+- Sync result: PUSHED commit 4fbc2ca on EvanSun368/digital-radio-protocols (parent tip was 9be7de2); 9 files (handbook50 + _hb50_parts + 进度.json)
