@@ -6,3 +6,4 @@
 - Split _hb49_parts/part1-3.md (archive §1-3/§4-7/§8-12) and _send_part1-3.md (~22–23KB; send rebalanced §1-2 / §3-6 / §7-12 for paste size)
 - Updated 进度.json → handbook_index=49, handbook_49_done=true, last_handbook_file=学习推送/手册49_日用油箱油品净化与加油交接台账.md, last_sent=2026-11-02T09:52+08:00
 - Ran scripts/sync-to-github.sh (result below after run)
+- Sync result: PUSHED commit 0f86f64 on EvanSun368/digital-radio-protocols (parent tip was a01934d); 9 files (handbook49 + _hb49_parts + 进度.json)
