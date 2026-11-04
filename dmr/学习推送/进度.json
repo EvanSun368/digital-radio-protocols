@@ -3,7 +3,7 @@
   "total_planned": 40,
   "started": "2026-09-19",
   "audience": "DMR方向工作人员，通信基础弱，需由浅入深",
-  "last_sent": "2026-11-03T18:52+08:00",
+  "last_sent": "2026-11-04T09:52+08:00",
   "content_preference": "加厚：每课20-35分钟，含总图/术语/现场对照/自测/加深阅读",
   "lesson_1_expanded": true,
   "weak_spots": [
@@ -57,8 +57,8 @@
   "lesson_40_done": true,
   "course_complete": true,
   "mode": "handbook",
-  "handbook_index": 52,
-  "last_handbook_file": "学习推送/手册52_机房新风正压与防火阀交底台账.md",
+  "handbook_index": 53,
+  "last_handbook_file": "学习推送/手册53_机房冷通道封闭与机柜进出风交底台账.md",
   "handbook_01_done": true,
   "handbook_02_done": true,
   "handbook_03_done": true,
@@ -110,5 +110,6 @@
   "handbook_49_done": true,
   "handbook_50_done": true,
   "handbook_51_done": true,
-  "handbook_52_done": true
+  "handbook_52_done": true,
+  "handbook_53_done": true
 }
