@@ -8,3 +8,5 @@
 - Next candidates (§11.2): 加湿器水质与电极罐更换 / 接地与等电位浪涌巡检 / 精密空调过滤器压差与滤网更换
 - Ran scripts/sync-to-github.sh (result below after run)
 - UpdateMemory: this executor run cannot write memory; parent should journal: On 2026-11-06 morning push, handbook57 delivered: 手册57_机房冷冻水泵组与定压补水交底台账.md; sticker BD 泵/补/界/验/治; motto 泵组有账，补水有窗，边界有法，会签才放; video_found=true; handbook_index=57
+- Sync result: PUSHED commit 99e1724 (handbook57 + _hb57_parts + 进度.json, 9 files) on EvanSun368/digital-radio-protocols
+- URL: https://github.com/EvanSun368/digital-radio-protocols/commit/99e1724
