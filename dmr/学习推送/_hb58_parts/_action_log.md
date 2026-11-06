@@ -8,4 +8,5 @@
 - Next candidates (§11.2): 接地与等电位浪涌巡检 / 精密空调过滤器压差与滤网更换专项 / 冷却水泵组与冷凝水侧交底
 - Ran scripts/sync-to-github.sh (result below after run)
 - UpdateMemory: this executor run cannot write memory; parent should journal: On 2026-11-06 evening push, handbook58 delivered: 手册58_机房加湿器水质与电极蒸汽罐更换交底台账.md; sticker BE 水/罐/界/验/治; motto 水质有账，换罐有窗，边界有法，会签才放; video_found=true; handbook_index=58
-- Sync result: (pending)
+- Sync result: PUSHED commit fb1be05 (handbook58 + _hb58_parts + 进度.json, 9 files) on EvanSun368/digital-radio-protocols
+- URL: https://github.com/EvanSun368/digital-radio-protocols/commit/fb1be05
