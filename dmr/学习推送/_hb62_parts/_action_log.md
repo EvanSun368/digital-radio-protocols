@@ -1,0 +1,9 @@
+# handbook62 action log (Asia/Shanghai)
+
+- Read templates: 手册61 (BH) TOC+style+send/deliver parts; 手册45 (AR) / 手册49 (AV) openings + boundary tables; 手册33 (AF) title/opening; 进度.json (handbook_index=61)
+- Wrote 手册62_机房柴油发电机日用储油罐油位与泄漏巡检交底台账.md (81988 bytes); sticker BI 位/漏/界/验/治; motto 油位有账，泄漏有窗，边界有法，会签才放; story 医院手术室/ICU / 数据中心应急柴油发电机日用油箱 + 储油罐油位路径 + 泄漏/围堰/二次围堵巡检路径; BI ≠ AR/AV/AF/AO/AN/AL/N; emphasize AR≠BI（燃油安全巡检过 ≠ 油位/泄漏台账过）, AV≠BI（油品净化加油过 ≠ 油位/泄漏窗过）, AF≠BI（油机市电过 ≠ 油位泄漏过）, AO≠BI（漏水探头OK ≠ 漏油窗过）; 看着有油≠油位台账过; 地面看着干≠泄漏窗过; 围堰看着在≠泄漏窗过; 日用油箱过≠储油罐过; 无日用油箱/无储油罐/无柴油发电机路径分别书面不适用，一侧不适用 ≠ 另一侧自动免
+- Verified §10 links via curl -sI -L (HTTP 200) and YouTube oEmbed; video_found=true (Diesel Generator Working Principle yoeq14ePqlg + Fuel Handling System Design IAQOPYvXwc4 + Voltgent DG maintenance jr2omzHAxRw + DIY Fuel Polishing ViJBAbDhhkI as AV contrast + MPSCS site PM + FAT-SAT + DMR + ACLR); CommTank day-tank + Northern Tank Store day vs bulk + Reddy fuel system + Icon Procon level sensors + GOV.UK oil storage + EPA spill/UST + Wikipedia Bunding/Secondary containment/Tank leak detection/Level sensor/Float switch/Diesel generator/Fuel polishing + NFPA 110 overview + VT EHS AST + gov.cn radio regs OK; CommTank first HEAD returned 000 then retried 200 and was kept; self-bunded tank video 4hRd3It1OsY oEmbed failed and was skipped; iboats water-separator and Careers360 FAT-SAT omitted only for length after verification
+- Split _hb62_parts/part1-3.md and _send_part1-3.md (§1-2 / §3-5 / §6-12); _deliver_part1-3 with 「今晚手册62 · n/3」
+- Updated 进度.json → handbook_index=62, handbook_62_done=true, last_handbook_file=学习推送/手册62_机房柴油发电机日用储油罐油位与泄漏巡检交底台账.md, last_sent=2026-11-08T18:52+08:00
+- Next candidates (§11.2): 精密空调压缩机吸排气压力与过热度过冷度 / 精密空调蒸发器盘管清洗与翅片完好 / 柴油发电机冷却液液位与高温低水位保护
+- Size note: 81988 bytes (~80.1 KB), inside the 76–82 KB target; structure and density match handbook61 with dual 不适用 paths (day tank vs bulk tank) and AR/AV/AF/AO neighbor nails
