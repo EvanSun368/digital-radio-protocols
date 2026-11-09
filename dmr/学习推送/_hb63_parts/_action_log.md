@@ -1,0 +1,9 @@
+# handbook63 action log (Asia/Shanghai)
+
+- Read templates: 手册62 (BI) TOC+style+send/deliver parts+action log; 手册61 (BH) deliver lead; 手册51 (AX) opening+boundary nails+§10 reuse candidates; 进度.json (handbook_index=62)
+- Wrote 手册63_机房精密空调压缩机吸排气压力与过热度过冷度巡检交底台账.md (83995 bytes); sticker BJ 压/热/界/验/治; motto 压力有账，过热过冷有窗，边界有法，会签才放; story 医院手术室/ICU 或数据中心精密空调 CRAC——压缩机吸排气压力路径 + 过热度过冷度窗; BJ ≠ AX/AI/AT/AU/BG/AO/N; emphasize AX≠BJ（压缩机与制冷剂边界过 ≠ 吸排气压力/过热度过冷度巡检台账过）, AI≠BJ（温湿度过 ≠ 过热过冷过）, AT≠BJ（冷凝加湿过 ≠ 吸排/过热过冷）, AU≠BJ / BG≠BJ（滤网压差/换网过 ≠ 吸排/过热过冷）, AO≠BJ, N≠BJ（监控绿 ≠ 本期实测）; 压缩机灯绿≠吸排压力台账过; 压力表看着有数≠本期核对过; 口头说过热过冷正常≠窗过; 吸气过≠排气过; 过热度过≠过冷度过; 无直膨/CRAC压缩机路径（如仅冷冻水 CRAH）书面不适用，不得用 BJ 顶 AX/AI/AT，也不得用它们顶 BJ
+- Verified §10 links via curl -sI -L (HTTP 200) and YouTube oEmbed; video_found=true (AC Service Tech Refrigeration Cycle Training wjeoHrP9Nkg reused from AX + Superheat and Subcooling Explained ZwgjiqGJTho + Ctrltech CCU/CRAC internals PY4NU0aNUQo + MPSCS site PM + FAT-SAT + DMR + ACLR); HVAC School superheat/subcooling + EPA 608 + CRAC PM checklist + MEP Academy CRAC vs CRAH + Wikipedia Superheating/Subcooling/Vapor-compression refrigeration/Refrigerant/R-410A/R-407C/Pressure measurement + Vertiv/STULZ thermal + gov.cn radio regs + DMR Association/Tait/Hytera/Motorola/Sepura + P25 FAT OK; skipped CITEC/oxmaint (406), SRRC homepage (502), charging-adjacent videos BT14KanjckQ and ZE7oiVsVpfU, dead wiki/manifold/zh-vapor-compression/CRAC-en alias 404s
+- Split _hb63_parts/part1-3.md and _send_part1-3.md (§1-2 / §3-5 / §6-12); _deliver_part1-3 with 「今早手册63 · n/3」
+- Updated 进度.json → handbook_index=63, handbook_63_done=true, last_handbook_file=学习推送/手册63_机房精密空调压缩机吸排气压力与过热度过冷度巡检交底台账.md, last_sent=2026-11-09T09:52+08:00
+- Next candidates (§11.2): 精密空调蒸发器盘管清洗与翅片完好 / 柴油发电机冷却液液位与高温低水位保护 / 精密空调膨胀阀/电子膨胀阀开度与过热控制
+- Size note: 83995 bytes (~84.0 KB), inside the 76–84 KB target; structure and density match handbook62 with AX≠BJ neighbor nail and no-DX/CRAH 不适用 path
