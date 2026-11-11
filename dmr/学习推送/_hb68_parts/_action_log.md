@@ -8,3 +8,5 @@
 - Next candidates (§11.2): 精密空调冷凝风机转速与冷凝压力调节 / 精密空调电加热再热与低湿保护 / 柴油发电机启动蓄电池与充电电压（第三项已再核对系列手册01–68 标题，尚无该专题正文；AF 周检写到电瓶 ≠ 专项台账；手册34 是手台电池与充电器梯队，手册43 是内阻与核对性放电；不重写 AF/AG/AP 全文）
 - Size note: 89928 bytes (~89.9 KB), inside the ~82–90 KB band and just under handbook66’s 89953 ceiling; first assemble was ~96.9 KB, then tightened §10 annotations, opening repeats, and neighbor-table wording without dropping required sections. Density matches handbook67 neighbor nails (especially AF≠BO / BI≠BO / BL≠BO) plus AV/AR/AO/N and the 不适用 path
 - Filename note: used 手册68_ (series style of 手册61–67), no slash in filename; title in the body keeps 机油压力/油温保护
+
+- GitHub sync: commit `dcff4fb` pushed to https://github.com/EvanSun368/digital-radio-protocols (main 0bf8b25..dcff4fb); 12 files changed (手册68 + _hb68_parts + 进度.json)
