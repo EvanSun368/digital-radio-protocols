@@ -9,4 +9,4 @@
 - Size note: 89944 bytes (~89.9 KB, 756 lines), inside the ~82–90 KB band and just under handbook66’s 89953 ceiling (9 bytes under); first assemble was 92239 bytes, then tightened §10 annotations, opening repeats, and neighbor-table wording without dropping required sections. Density matches handbook69 neighbor nails retargeted to AI≠BQ / AT≠BQ / BE≠BQ plus AU/AZ/BM/N and the 不适用 path
 - Filename note: used 手册70_ (series style of 手册61–69), no slash in filename; title in the body keeps 电加热再热与低湿保护
 
-- GitHub sync: pending (run after this log is written)
+- GitHub sync: commit `c2f6f38` pushed to https://github.com/EvanSun368/digital-radio-protocols (main 23c94ea..c2f6f38); 12 files changed (手册70 + _hb70_parts + 进度.json)
