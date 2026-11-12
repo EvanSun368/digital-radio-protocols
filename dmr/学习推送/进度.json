@@ -3,7 +3,7 @@
   "total_planned": 40,
   "started": "2026-09-19",
   "audience": "DMR方向工作人员，通信基础弱，需由浅入深",
-  "last_sent": "2026-11-12T09:52+08:00",
+  "last_sent": "2026-11-12T18:52+08:00",
   "content_preference": "加厚：每课20-35分钟，含总图/术语/现场对照/自测/加深阅读",
   "lesson_1_expanded": true,
   "weak_spots": [
@@ -57,8 +57,8 @@
   "lesson_40_done": true,
   "course_complete": true,
   "mode": "handbook",
-  "handbook_index": 69,
-  "last_handbook_file": "学习推送/手册69_机房精密空调冷凝风机转速与冷凝压力调节交底台账.md",
+  "handbook_index": 70,
+  "last_handbook_file": "学习推送/手册70_机房精密空调电加热再热与低湿保护交底台账.md",
   "handbook_01_done": true,
   "handbook_02_done": true,
   "handbook_03_done": true,
@@ -127,5 +127,6 @@
   "handbook_66_done": true,
   "handbook_67_done": true,
   "handbook_68_done": true,
-  "handbook_69_done": true
+  "handbook_69_done": true,
+  "handbook_70_done": true
 }
